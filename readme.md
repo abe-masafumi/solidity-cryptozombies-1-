@@ -66,7 +66,7 @@ string[5] stringArray;
 uint[] dynamicArray;
 ```
 
-> パブリックの配列  
+- パブリックの配列  
 > 配列をpublicで宣言すれば、Solidityが自動的にgetterメソッドを作成する  ぞ。コードの書き方はこうだ  
 ```sol
 <!-- パブリックなPerson構造体のpeople -->
